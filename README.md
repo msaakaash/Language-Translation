@@ -10,7 +10,7 @@ This project focuses on implementing an LSTM-based model for translating English
 - Encoder-Decoder architecture
 - Attention mechanism for improved translation
 - Training on parallel corpus of English-Hindi sentences
-- BLEU score evaluation for performance assessment
+
 
 ## 🛠️ Tech Stack
 - Python
