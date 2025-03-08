@@ -8,7 +8,6 @@ This project focuses on implementing an LSTM-based model for translating English
 - Sequence-to-sequence model using LSTMs
 - Tokenization and text preprocessing
 - Encoder-Decoder architecture
-- Attention mechanism for improved translation
 - Training on parallel corpus of English-Hindi sentences
 
 
