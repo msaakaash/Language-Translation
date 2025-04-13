@@ -4,7 +4,7 @@
 
 This project focuses on implementing an LSTM-based model for translating English sentences into Hindi. It covers data preprocessing, model architecture, training, and evaluation, offering a step-by-step guide to building an effective language translation system.
 
-## 🚀  Features
+## 🚀 Features
 - Sequence-to-sequence model using LSTMs
 - Tokenization and text preprocessing
 - Encoder-Decoder architecture
